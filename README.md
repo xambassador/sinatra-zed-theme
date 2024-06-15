@@ -13,7 +13,7 @@ Download the zip file from [GitHub `.zip` download](https://github.com/xambassad
 
 #### Activating theme
 
-1. Copy the `sinatra.json` file from `assets` folder to `~/.config/zed/themes`.
+1. Copy the `sinatra.json` file from `themes` folder to `~/.config/zed/themes`.
 2. Select the theme (`Settings` ➡️ `Select Theme` ➡️ `Sinatra Dark`).
 3. You are ready to go! 🚀
 
